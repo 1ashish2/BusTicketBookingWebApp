@@ -1,0 +1,77 @@
+.box1 {
+    background-color: #263238;
+    color: white
+}
+.box2{
+    background-color: rgba(181, 240, 235, 0.5);
+    
+   
+}
+.panel{
+    color:black;
+    background-color: rgb(241, 7, 7,0);
+}
+.card-header {
+    background: none
+}
+
+.box1 {
+    height: 460px;
+    background-color:rgb(6, 16, 41,0.5);
+}
+
+.box2 {
+    height: 460px;
+    color:wheat
+}
+
+.heading {
+    font-weight:bold;
+}
+
+.card-header {
+    margin-top: 30px;
+    
+}
+
+.sub-heading {
+    margin-top: 1.8em;
+    font-weight: 900;
+    font-size: 12px
+}
+.sub-heading2:hover{
+    background-color:tomato;
+    border:1px solid tomato ;
+}
+.sub-heading1:hover{
+    background-color:tomato;
+    border:1px solid tomato ;
+}
+
+.sub-heading2 {
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.sub-heading1 {
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+
+.paymentbtn
+{
+    background-color:rgb(140, 67, 189);
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+.paymentinput{
+    font-size: 15px;
+    height: 40px;
+}
+.paymentcontainer{
+    margin-top: 40px;
+}

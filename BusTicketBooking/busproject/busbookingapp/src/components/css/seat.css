@@ -1,0 +1,44 @@
+.seatcontainer{
+    margin-top:0.7em;
+    background-color: rgba(181, 240, 235, 0.8);
+    color: rgb(18, 3, 36);
+   
+  }
+  .screen{  
+      background-color: violet;
+      height: 20px;
+  }
+  
+  
+  .listing li:hover {
+    opacity: .7;
+    cursor: pointer;
+  }
+  
+  .r {
+    background: orange;
+    color: #fff;
+    
+  }
+  
+  .r::after {
+    content: 'R'
+  }
+  
+  .a {
+    color: #333;
+    background:whitesmoke;
+  }
+  .a::after {
+    content: 'A'
+   
+  }
+  li {
+    list-style: none;
+  }
+  .form-control{
+      border:none;
+  }
+  .btm{
+    margin-bottom: 10px;
+  }

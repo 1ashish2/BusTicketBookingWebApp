@@ -1,0 +1,29 @@
+li{
+    list-style: none;
+}
+.ticketcontainer{
+    margin-top: 5em;
+   
+}
+.ticketrow{
+    margin-bottom: 10px;;
+}
+.ticketcol1{
+    background-color: rgba(253, 249, 255, 0.8);
+    border-top: double;
+    border-left: double;
+    border-bottom: double;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+.ticketcol2{
+    background-color: rgba(253, 249, 255, 0.8);
+    border-top: double;
+    border-right: double;
+    border-bottom: double;
+    border-color: blueviolet;
+    border-width: 5px;
+}
+li{
+    font-size: 20px;
+}

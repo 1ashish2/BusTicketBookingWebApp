@@ -1,0 +1,26 @@
+.inpt{
+    margin-top:8em;
+    
+}
+.btmbus{
+    margin-top: 10px;
+   
+}
+.formelement{
+    margin-bottom: 20px;
+}
+.planbus{
+    background-color: rgb(213, 228, 198,0.8);
+    margin-bottom: 10px;
+    
+}
+.buslist{
+    margin-top: 20px;
+    
+}
+.buslistitem{
+    background-color: rgb(213, 228, 198,0.8);
+}
+.btnsubmit{
+    font-size: 20px;
+}

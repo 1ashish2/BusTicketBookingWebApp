@@ -1,0 +1,10 @@
+body{
+    margin: 0%;
+    padding:0%;
+    background-image: url('./bus2.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
